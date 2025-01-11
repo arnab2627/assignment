@@ -333,7 +333,7 @@ nav {
 }
 
 .forImage {
-    border-radius: 24px;
+    border-radius: 50px;
     padding: 26px;
 }
 
@@ -458,16 +458,18 @@ nav {
 }
 
 .otherAmount {
-    width: 50%;
+    width: 70%;
     margin: auto;
     text-align: center;
-    border: 1px solid gray;
-    margin-top: 10px;
+    border: 1px solid rgb(223, 223, 223);
+    margin-top: 20px;
     margin-bottom: 5px;
     border-radius: 6px;
     color: rgba(14, 14, 14, 0.3);
     font-family: Fira Sans;
-    font-size: 20px;
+    font-size: 20px; 
+    background: #fff;
+ 
 
 }
 
@@ -485,4 +487,5 @@ nav {
     line-height: 22px;
     letter-spacing: 0%;
     cursor: pointer;
+    margin-top: 20px;
 }
