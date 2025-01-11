@@ -65,9 +65,11 @@ nav {
     width: 1280px;
     margin: auto;
 }
-.photo{
+
+.photo {
     padding: 60px;
 }
+
 .div {
     display: flex;
     flex-direction: column;
@@ -216,17 +218,17 @@ nav {
 
 .new1 {
     border-radius: 8px;
-  background: rgb(84, 144, 245);
-  /* margin: 24px 0px; */
-  padding: 11px 20px 11px 20px;
-  color: rgb(255, 255, 255);
-  font-family: Fira Sans;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 19px;
-  letter-spacing: 0%;
-  text-align: left;
-  border: none;
+    background: rgb(84, 144, 245);
+    /* margin: 24px 0px; */
+    padding: 11px 20px 11px 20px;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
 }
 
 .card2 {
@@ -291,6 +293,90 @@ nav {
 }
 
 .p1 {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.one {
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.two {
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.setaligin1 {
+
+    display: flex;
+    background: #fff;
+    border-radius: 25px;
+    padding: 31px;
+    gap: 30px;
+}
+
+.forImage {
+    border-radius: 24px;
+    padding: 26px;
+}
+
+
+
+.contents {
+    border-radius: 24px;
+
+    background: rgb(255, 255, 255);
+}
+
+.forh1 {
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.b {
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    
+      
+
+    
+    margin: 13px 0px;
+    cursor: pointer;
+    padding: 10px;
+  }
+
+
+
+
+.forDate {
     color: rgba(14, 14, 14, 0.7);
     font-family: Fira Sans;
     font-size: 16px;
